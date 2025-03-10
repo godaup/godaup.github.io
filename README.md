@@ -1,6 +1,6 @@
 # GitHub Homepage
 
-My simplistic academic homepage. 
+My simplistic academic homepage, which can be found [here](https://godaup.github.io/). 
 
 Template from: [@yaoyao-liu](https://github.com/yaoyao-liu) under [![LICENSE](https://img.shields.io/github/license/yaoyao-liu/minimal-light?style=flat-square&logo=creative-commons&color=EF9421)](https://github.com/yaoyao-liu/minimal-light/blob/main/LICENSE), known as [The Minimal Light Theme](https://github.com/yaoyao-liu/minimal-light). Itself derived from [minimal-light](https://github.com/Xiao-Chenguang/minimal-light), which is based on [minimal](https://github.com/orderedlist/minimal).
 
