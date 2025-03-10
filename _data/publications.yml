@@ -20,7 +20,7 @@ main:
     image: ./assets/img/teaser/navigating.jpg
     notes: MedIA Best Paper Award (MICCAI 2023)
 
-  - title: Beyond Knowledge Silos: Task Fingerprinting for Democratization of Medical Imaging AI
+  - title: "Beyond Knowledge Silos: Task Fingerprinting for Democratization of Medical Imaging AI"
     authors: <strong>Patrick Godau</strong>, Akriti Srivastava, Tim Adler, Lena Maier-Hein
     conference_short: preprint
     # conference: ToDo
@@ -29,7 +29,7 @@ main:
     notes: under review
     image: ./assets/img/teaser/beyond.pdf
 
-  - title: Metrics reloaded: recommendations for image analysis validation
+  - title: "Metrics reloaded: recommendations for image analysis validation"
     authors: Lena Maier-Hein, Annika Reinke, <strong>Patrick Godau</strong>, ..., Ben Van Calster, Gaël Varoquaux, Paul F Jäger
     conference_short: nature
     conference: Nature methods
