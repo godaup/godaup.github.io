@@ -27,7 +27,7 @@ main:
     pdf: https://arxiv.org/pdf/2412.08763
     code: https://github.com/IMSY-DKFZ/task-fingerprinting
     notes: under review
-    image: ./assets/img/teaser/beyond.pdf
+    image: ./assets/img/teaser/beyond.png
 
   - title: "Metrics reloaded: recommendations for image analysis validation"
     authors: Lena Maier-Hein, Annika Reinke, <strong>Patrick Godau</strong>, ..., Ben Van Calster, Gaël Varoquaux, Paul F Jäger
@@ -46,7 +46,7 @@ main:
     pdf: https://arxiv.org/pdf/2303.12540
     code: https://github.com/IMSY-DKFZ/prevalence-shifts
     notes: Oral, shorlisted for Best Paper Award
-    image: ./assets/img/teaser/deployment.pdf
+    image: ./assets/img/teaser/deployment.png
 
   - title: Task Fingerprinting for Meta Learning inBiomedical Image Analysis
     authors: <strong>Patrick Godau</strong>, Lena Maier-Hein
