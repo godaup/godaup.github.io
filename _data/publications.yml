@@ -1,22 +1,64 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  # - title: 
+  #   authors: <strong>Patrick Godau</strong>
+  #   conference_short: 
+  #   conference: 
+  #   pdf: 
+  #   code: 
+  #   page: 
+  #   bibtex:
+  #   notes:
+  #   image: ./assets/img/teaser/...
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: Navigating prevalence shifts in image analysis algorithm deployment
+    authors: <strong>Patrick Godau</strong>, Piotr Kalinowski, Evangelia Christodoulou, Annika Reinke, Minu Tizabi, Luciana Ferrer, Paul Jäger, Lena Maier-Hein
+    conference_short: MedIA
+    conference: Medical Image Analysis
+    pdf: https://doi.org/10.1016/j.media.2025.103504
+    code: https://github.com/IMSY-DKFZ/prevalence-shifts
+    image: ./assets/img/teaser/navigating.jpg
+    notes: MedIA Best Paper Award (MICCAI 2023)
+
+  - title: Beyond Knowledge Silos: Task Fingerprinting for Democratization of Medical Imaging AI
+    authors: <strong>Patrick Godau</strong>, Akriti Srivastava, Tim Adler, Lena Maier-Hein
+    conference_short: preprint
+    # conference: ToDo
+    pdf: https://arxiv.org/pdf/2412.08763
+    code: https://github.com/IMSY-DKFZ/task-fingerprinting
+    notes: under review
+    image: ./assets/img/teaser/beyond.pdf
+
+  - title: Metrics reloaded: recommendations for image analysis validation
+    authors: Lena Maier-Hein, Annika Reinke, <strong>Patrick Godau</strong>, ..., Ben Van Calster, Gaël Varoquaux, Paul F Jäger
+    conference_short: nature
+    conference: Nature methods
+    pdf: https://www.nature.com/articles/s41592-023-02151-z
+    code: https://github.com/Project-MONAI/MetricsReloaded
+    page: https://metrics-reloaded.dkfz.de/
+    # notes:
+    image: ./assets/img/teaser/metrics_reloaded.png
+
+  - title: Deployment of image analysis algorithms under prevalence shifts
+    authors: <strong>Patrick Godau</strong>, Piotr Kalinowski, Evangelia Christodoulou, Annika Reinke, Minu Tizabi, Luciana Ferrer, Paul F Jäger, Lena Maier-Hein
+    conference_short: MICCAI
+    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention, 2023
+    pdf: https://arxiv.org/pdf/2303.12540
+    code: https://github.com/IMSY-DKFZ/prevalence-shifts
+    notes: Oral, shorlisted for Best Paper Award
+    image: ./assets/img/teaser/deployment.pdf
+
+  - title: Task Fingerprinting for Meta Learning inBiomedical Image Analysis
+    authors: <strong>Patrick Godau</strong>, Lena Maier-Hein
+    conference_short: MICCAI 
+    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention, 2021
+    pdf: https://arxiv.org/pdf/2107.03949
+    notes: Oral
+    image: ./assets/img/teaser/task.png
+
+  - title: Why rankings of biomedical image analysis competitions should be interpreted with care
+    authors: Lena Maier-Hein, Matthias Eisenmann, Annika Reinke, Sinan Onogur, Marko Stankovic, <strong>Patrick Scholz</strong>, ..., Pierre Jannin, Annette Kopp-Schneider
+    conference_short: nature
+    conference: Nature communications
+    pdf: https://www.nature.com/articles/s41467-018-07619-7
+    image: ./assets/img/teaser/why_rankings.png
