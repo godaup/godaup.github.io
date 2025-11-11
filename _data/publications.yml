@@ -9,7 +9,7 @@ main:
   #   page: 
   #   bibtex:
   #   notes:
-  #   image: ./assets/img/teaser/...
+  #   image: ./assets/img/teaser/...  use "convert -density 150 concept.pdf -quality 90 -background white -alpha remove -alpha off concept.png" to convert pdf figures
 
   - title: Navigating prevalence shifts in image analysis algorithm deployment
     authors: <strong>Patrick Godau</strong>, Piotr Kalinowski, Evangelia Christodoulou, Annika Reinke, Minu Tizabi, Luciana Ferrer, Paul Jäger, Lena Maier-Hein

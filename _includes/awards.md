@@ -1,5 +1,6 @@
 ## International Challenges
 
+- **[RARE25: Recognition of Abnormalities in low-pREvalence cancer](https://rare25.grand-challenge.org/)**<br>@ MICCAI 2025<br>_(1st place)_
 - **[Critical View of Safety Challenge](https://www.cvschallenge.org/the-challenge)**<br>@ MICCAI 2024<br>_(2nd overall, 1st in robustness)_
 - **[PitVis Workflow Recognition in Endoscopic Pituitary Surgery](https://www.synapse.org/Synapse:syn51232283/wiki/621586)**<br>@ MICCAI 2023<br>_(1st place instrument recognition)_
 - **[CholecTriplet2022](https://cholectriplet2022.grand-challenge.org/cholectriplet2022/)**<br>@ MICCAI 2022<br>_(1st place detection and classification)_
